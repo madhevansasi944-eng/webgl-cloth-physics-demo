@@ -2,7 +2,7 @@
 
 An interactive 3D simulation of cloth hanging on a clothesline, blown around by wind from a desk fan. It runs in the browser using WebGL.
 
-**Live demo:** https://madhevansasi944-eng.github.io/cloth-with-fan/
+**Live demo:** https://madhevansasi944-eng.github.io/webgl-cloth-physics-demo/
 (Update this link if you rename the repo.)
 
 
